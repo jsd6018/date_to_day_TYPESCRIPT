@@ -30,3 +30,18 @@ The input set consists of date-value pairs ( dates are preferably continuous wit
   <li><b>Number of dates in the input set < 7 : </b> Since the dates are continuous, the output set must consist of one day-value pair for each day of the week. So, if a pasrticular day isn't encountered in a smaller input set, it's value is computed using the mean of the values of its precedding and succeeding days.The complete heuristic has been documented in the code file <i>src/work.ts</i></li>
   <li><b>Number of dates in the input set > 7 : </b> In such a scenario, it's implicit to encounter at least two values for at least one day of the week. Thus, in order to compute it's actual value in the result, all the values for a given day are added up.</li>   
 </ul>
+
+<hr>
+
+### INPUT ASSUMPTIONS
+<ul>
+  <li>Input will have at least Sunday and Monday</li>
+  <li>Input dictionary is a string in the range [ 1970-01-01 , .... , 2100-01-01 ] </li>
+  <li>Corresponding integer calues are in the range [-1,000,000 , ..... , 1,000,000 ]</li>
+</ul>
+
+<hr>
+
+### ABOUT THE OUTPUT
+The output set starts from day-value pair of Sunday all the way to Saturday. In order to view the results, the console output can be accessed from the unit tests file in test/work.ts
+
