@@ -6,8 +6,9 @@ In order to run the program the following dependencies are reuqired to be instal
   <li>nodeJS: https://nodejs.org/en/ </li>
   <li>chai: npm
     
-Running the program requires to compile the file 'src/work.ts' as follows:<br>
-<i><font color='red'>tsc --lib "ES2016","DOM" src/work.ts</font></i><br>
-If the above file is running without unit tests, the results can also be observed in the cmd of VS Code using the command<br>
-<i><u>node src/work.js</u></i>
+Running the program requires to compile the file 'src/work.ts' as follows:<br><br>
+<i><font color='red'>tsc --lib "ES2016","DOM" src/work.ts</font></i><br><br>
+
+If the above file is running without unit tests, the results can also be observed in the cmd of VS Code using the command<br><br>
+<i><u>node src/work.js</u></i><br><br>
 
