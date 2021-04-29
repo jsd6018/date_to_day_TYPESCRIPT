@@ -49,7 +49,7 @@ The output set starts from day-value pair of Sunday all the way to Saturday. In 
 
 ### UNIT TESTING
 A total of 5 unit tests have been specified for the problem statement. The tests are as follows.<br>
-<img src='unit_tests.png'> </img><br>
+<img src='images/unit_tests.png'> </img><br>
 All the tests have been performed two sets of inputs, one with 5 dates and other with 8 date-value pairs to cover up the possible input cases.
 
 
