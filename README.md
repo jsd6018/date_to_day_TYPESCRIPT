@@ -1,10 +1,13 @@
 # date_to_day_TYPESCRIPT
 Given a set of date-value pairs, convert them to the corresponding day-value pairs for a given set of constraints on the values.
 
-In order to run the program the following dependencies are reuqired to be installed:
+In order to run the program the following dependencies are required to be installed:
 <ul>
   <li>nodeJS: https://nodejs.org/en/ </li>
-  <li>chai: npm
+  <li>typescript: npm install typescript --save-dev</li>
+  <li>ts-node: npm install ts-node --save-dev</li>
+  <li>chai:  npm install chai --save-dev</li>
+  <li>mocha: sudo npm install mocha --save-dev</li>
     
 Running the program requires to compile the file 'src/work.ts' as follows:<br><br>
 <i><font color='red'>tsc --lib "ES2016","DOM" src/work.ts</font></i><br><br>
