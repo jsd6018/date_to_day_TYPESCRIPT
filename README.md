@@ -2,7 +2,7 @@
 <b>PROBLEM STATEMENT</b><br>
 Given a set of date-value pairs, convert them to the corresponding day-value pairs for a given set of constraints on the values.
 
-###PRIMARY DEPENDENCIES
+### PRIMARY DEPENDENCIES
 
 In order to run the program the following dependencies are required to be installed:
 <ul>
