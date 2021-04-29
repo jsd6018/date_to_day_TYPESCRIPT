@@ -18,3 +18,5 @@ The output can also be viewed in the browser's developer's console using the pro
 
 In order to run the unit test file, the following command is to be executed<br><br>
 <i>npm test -- -w</i><br><br>
+
+<hr>
