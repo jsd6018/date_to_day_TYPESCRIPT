@@ -7,7 +7,7 @@ In order to run the program the following dependencies are required to be instal
   <li>typescript: npm install typescript --save-dev</li>
   <li>ts-node: npm install ts-node --save-dev</li>
   <li>chai:  npm install chai --save-dev</li>
-  <li>mocha: sudo npm install mocha --save-dev</li>
+  <li>mocha: sudo npm install mocha --save-dev</li><br><br>
     
 Running the program requires to compile the file 'src/work.ts' as follows:<br><br>
 <i><font color='red'>tsc --lib "ES2016","DOM" src/work.ts</font></i><br><br>
