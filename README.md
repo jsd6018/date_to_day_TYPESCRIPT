@@ -14,6 +14,7 @@ Running the program requires to compile the file 'src/work.ts' as follows:<br><b
 
 If the above file is running without unit tests, the results can also be observed in the cmd of VS Code using the command<br><br>
 <i><u>node src/work.js</u></i><br><br>
+The output can also be viewed in the browser's developer's console using the provided file src/index.html.<br><br>
 
 In order to run the unit test file, the following command is to be executed<br><br>
 <i>npm test -- -w</i><br><br>
